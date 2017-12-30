@@ -4,7 +4,7 @@ class Projects extends Component {
   render() {
     return (
       <div className="Projects">
-        XOXO loves you.
+        <img src="images/xo_md_animation.gif" alt="xoxo animation"></img>
       </div>
     );
   }
